@@ -4,14 +4,12 @@ title: "Research Interests"
 permalink: /projects/
 author_profile: true
 ---
-
-My goal is to bridge the gap between **Fundamental Mathematics** and **Artificial Intelligence** to tackle complex problems in natural sciences.
-
-I am particularly interested in the emerging field of **AI for Science**, believing that deep learning architectures -when grounded in rigorous mathematical theory— can unlock new understanding in fields like Neuroscience, Biology, and Physics.
+I'm interested in **Theoritical Mathematics** as well as applied mathematics in various fields like neuroscience, physics and cryptography. 
+Working as a research intern in one of these fields is a goal for me in 2026
 
 ## Current Focus
 
-I am currently strengthening my foundations in Machine Learning theory and applied mathematics through the following resources:
+I am currently strengthening my foundations in pure and applied math as well as in computer science :
 
 ### 📖 Theory
 * **Deep Learning Foundations:** I am currently working through *"Understanding Deep Learning"* by **Simon J. Prince**.
