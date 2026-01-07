@@ -8,3 +8,4 @@ redirect_from:
 ---
 
 ## Welcome to my webpage !
+Happy New Year 2026 !
