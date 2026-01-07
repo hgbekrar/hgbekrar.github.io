@@ -1,6 +1,6 @@
 --- 
 layout: archive
-title: "Projects"
+title: "Interests"
 permalink: /projects/
 author_profile: true
 ---
