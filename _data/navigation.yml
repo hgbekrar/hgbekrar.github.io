@@ -10,10 +10,10 @@
 main:
     
   - title: "Projects"
-    url: /Projects/
+    url: /projects/
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: /blog/
     
   - title: "CV"
     url: /cv/
