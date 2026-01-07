@@ -1,12 +1,6 @@
 --- 
 layout: archive
-title: "Interests"
-permalink: /projects/
-author_profile: true
----
----
-layout: archive
-title: "Research Interests & Roadmap"
+title: "Research Interests"
 permalink: /projects/
 author_profile: true
 ---
