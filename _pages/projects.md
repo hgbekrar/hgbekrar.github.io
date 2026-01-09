@@ -25,5 +25,6 @@ I maintain an active practice of coding algorithms to ensure my implementation s
   * *Focus:* Solving advanced algorithmic problems to sharpen problem-solving skills under constraints.
 * **Machine Learning Engineering:**
   * [Deep-ML](https://www.deep-ml.com) & [TensorTonic](https://www.tensortonic.com): Solving deep learning problems using Python (implementing from scratch with NumPy or using PyTorch).
+  * Learning a Python Framework PyTorch from [LearnPyTorch.io](https://www.learnpytorch.io/)
 * **System & Security:**
   * [TryHackMe](https://tryhackme.com/p/underthehat) (CTF): I participate in security challenges to maintain robust general computer science skills and system understanding.
