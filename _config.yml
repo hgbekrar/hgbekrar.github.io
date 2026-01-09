@@ -23,7 +23,7 @@ repository               : "hgbekrar/hgbekrar.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile_picture.png"
+  avatar           : "profile.png"
   name             : "Hugo Bekrar"
   pronouns         : # example: "she/her"  
   bio              : "Pure and Applied Math"
