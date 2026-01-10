@@ -14,6 +14,11 @@ I specialize in **Theoretical Mathematics** with a focus on applications in neur
 
 ## Recent Competitions
 
-* **Dec 2025 | TRACS:** CTF Competition (Security).
-* **Jan 2026 | Hack'in Saclay:** AI Hackathon.
-* **Feb 2026 | Prologin:** Competitive programming semi-finals.
+**Dec 2025 — TRACS**
+> CTF Competition (Security)
+
+**Jan 2026 — Hack'in Saclay**
+> AI Hackathon 
+
+**Feb 2026 — Prologin**
+> Competitive programming semi-finals
