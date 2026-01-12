@@ -17,5 +17,5 @@ Education
 
 Skills
 ======
-* Programming languages : Ocaml/C++/Python
+* Programming languages : Ocaml/C++/Python/Latex
 
