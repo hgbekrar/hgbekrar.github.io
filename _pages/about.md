@@ -7,4 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently studying pure mathematics at University Paris Saclay (L3 Magistère). I'm also interested in the development of machine learning !
+I am currently a third-year student (L3) at the Magistère de Mathématiques d'Orsay (University Paris-Saclay). 
+
+My academic focus is on pure mathematics, with a strong interest in the theoretical foundations of Machine Learning.
