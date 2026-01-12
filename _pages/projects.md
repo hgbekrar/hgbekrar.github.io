@@ -10,7 +10,7 @@ Securing a research internship at the intersection of some of these fields is my
 
 ## Academic & Technical Focus
 
-* **Mathematics (Magistère d'Orsay, L3):** Advanced Algebraic Structures, Graph Theory, Measure Theory, Probability, Dynamical Systems.
+* **Mathematics (Magistère d'Orsay, L3):** Advanced Algebraic Structures, Graph Theory, Measure Theory, Probability, Dynamical Systems, Complex Analysis, Differential Geometry.
 * **Deep Learning Theory:** Currently reading *"Understanding Deep Learning"* by Simon J. Prince.
 * **Scientific Computing & Implementation:** Bridging theory and practice by implementing mathematical models from scratch (NumPy) and deploying architectures with modern frameworks (PyTorch).
 
