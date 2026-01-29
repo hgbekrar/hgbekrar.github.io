@@ -18,4 +18,5 @@ Education
 Skills
 ======
 * Programming languages : Ocaml/C++/Python/Latex
+* Python Frameworks : PyTorch/Smolagents/Pandas
 
