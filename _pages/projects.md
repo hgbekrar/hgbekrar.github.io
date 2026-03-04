@@ -11,10 +11,12 @@ Securing a research internship at the intersection of some of these fields is my
 ## Academic & Technical Focus
 
 * **Mathematics (Magistère d'Orsay, L3):** Advanced Algebraic Structures, Graph Theory, Measure Theory, Probability, Dynamical Systems, Complex Analysis, Differential Geometry.
-* **Deep Learning Theory:** Currently reading *"Understanding Deep Learning"* by Simon J. Prince.
 * **Scientific Computing & Implementation:** Bridging theory and practice by implementing mathematical models from scratch (NumPy) and deploying architectures with modern frameworks (PyTorch).
 
   
 ## Recent Competitions
 **Dec 2025 — TRACS**
-* A high-level CTF (Capture The Flag) organized by the French external intelligence agency.
+* A high-level CTF (Capture The Flag) organized by the French external intelligence agency (DGSE).
+
+**Jan 2026 — HackInSaclay**
+* "How to build a system that maintains the necessary conditions for skin culture?", we built the DermaLoop, a closed loop system monitored by AI. 
